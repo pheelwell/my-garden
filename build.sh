@@ -6,7 +6,7 @@ rm -rf ./gatsby/content/promised-victory/.obsidian
 # ...
 
 
-cd gatsby
+cd ./gatsby
 # build gatsby
 npm run build
 
