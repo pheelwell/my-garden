@@ -8,6 +8,7 @@ rm -rf ./gatsby/content/promised-victory/.obsidian
 
 cd ./gatsby
 # build gatsby
+npm install
 npm run build
 
 #build is stored in ./gatsby/public
