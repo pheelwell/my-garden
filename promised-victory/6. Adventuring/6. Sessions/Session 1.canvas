@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"c6d9d12207c68788","x":-1200,"y":-499,"width":912,"height":586,"type":"file","file":"5. Player Characters/Jamoke.md"},
+		{"id":"24bf4a16555bafe0","x":-359,"y":-1269,"width":699,"height":252,"type":"text","text":"Strong Start: Monster Attack\n"},
+		{"id":"f468fd85bfeffd6d","x":121,"y":-736,"width":315,"height":126,"type":"text","text":"Monstrosoty Attack"},
+		{"id":"673319fc9394315e","x":121,"y":-530,"width":315,"height":126,"type":"text","text":"Falk Overrun"}
+	],
+	"edges":[]
+}

@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"b51efd29e0cd9372","x":-254,"y":1024,"width":400,"height":400,"type":"file","file":"1. General/Storys/Final Sacrifice.md"},
+		{"id":"77908ebba6cade76","x":-203,"y":306,"width":400,"height":400,"type":"file","file":"1. General/Storys/Artifact of Light.md"},
+		{"id":"494139a04a2697bd","x":245,"y":306,"width":400,"height":400,"type":"file","file":"1. General/Storys/Souls of the Dead.md"},
+		{"id":"a4c179677bb2f3da","x":-1934,"y":-594,"width":1201,"height":1151,"type":"group","label":"Life"},
+		{"id":"19e18b1ef6c8a559","x":-1153,"y":-179,"width":400,"height":400,"type":"file","file":"1. General/Storys/Artifact of Chaos.md"},
+		{"id":"b683134451cf5978","x":-1067,"y":300,"width":250,"height":237,"type":"text","text":"# Light"},
+		{"id":"ada6466c0caf5053","x":-1811,"y":21,"width":400,"height":400,"type":"file","file":"1. General/Storys/Artifact of Life.md"},
+		{"id":"0c632cf99cb94780","x":-541,"y":-1169,"width":1201,"height":1151,"type":"group","label":"Chaos"},
+		{"id":"48ca549c3add641a","x":1277,"y":-1169,"width":1201,"height":1151,"type":"group","label":"Light"},
+		{"id":"c75c0426ea507fa4","x":1277,"y":219,"width":1201,"height":1148,"type":"group","label":"Dead"},
+		{"id":"c85b3721a639abad","x":-1934,"y":965,"width":1201,"height":1151,"type":"group","label":"Final"}
+	],
+	"edges":[
+		{"id":"33873d7b292731e0","fromNode":"19e18b1ef6c8a559","fromSide":"bottom","toNode":"b51efd29e0cd9372","toSide":"top"},
+		{"id":"872a89523acda49c","fromNode":"77908ebba6cade76","fromSide":"bottom","toNode":"b51efd29e0cd9372","toSide":"top"},
+		{"id":"50cb99ae6ad5da94","fromNode":"494139a04a2697bd","fromSide":"bottom","toNode":"b51efd29e0cd9372","toSide":"top"}
+	]
+}
